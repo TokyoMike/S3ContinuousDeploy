@@ -1,3 +1,4 @@
+version: 2
 jobs:
   # build job omitted for brevity
   deploy:
